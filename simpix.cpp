@@ -1,17 +1,4 @@
-// simpix.cpp
-// Simpix simulated annealing: rearrange pixels of source to resemble target
-// Uses Metropolis acceptance and geometric cooling.
-// Output: final image + optional collage (src, tgt, out)
-//
-// Compile (ROOT required):
-//   g++ -O3 -std=c++17 simpix.cpp $(root-config --cflags --libs) -lASImage -lGui -o simpix
-//
-// Run:
-//   ./simpix A.png B.png out.png collage.png 5000000
-//
-// Notes:
-// - Works in batch mode (no GUI pop-up).
-// - For the "both directions" requirement: run again swapping src/tgt.
+
 
 #include "TROOT.h"
 #include "TCanvas.h"
