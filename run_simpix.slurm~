@@ -1,0 +1,33 @@
+#!/bin/bash
+#
+#SBATCH --job-name=simpix
+#SBATCH --time=4:00:00
+#SBATCH -A phys56xx
+#SBATCH --partition=instructional
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=8G
+#SBATCH --output=simpix_%j.log
+
+# Match interactive environment
+source ~/.bashrc
+conda activate phys56xx
+
+# Go to submit directory (usually automatic, but safe)
+cd $SLURM_SUBMIT_DIR
+
+# ---- User settings ----
+SRC="frisbe_scott_stadium.png"
+TGT="rotunda_north_facade.png"
+TRIALS=5000000
+
+# Output names (include job id to avoid overwriting)
+OUT="out_${SLURM_JOB_ID}.png"
+COLLAGE="collage_${SLURM_JOB_ID}.png"
+
+# Run in batch (your code already does gROOT->SetBatch(kTRUE))
+./simpix "$SRC" "$TGT" "$OUT" "$COLLAGE" "$TRIALS"
+
+echo "Finished simpix job $SLURM_JOB_ID"
+
