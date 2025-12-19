@@ -1,16 +1,22 @@
-Work in progress: 
+Build: 
 g++ -O3 -std=c++17 simpix.cpp $(root-config --cflags --libs) -lASImage -lGui -o simpix
 
-code:
-./simpix imageA.png imageB.png out_AB.png collage_AB.png 20000000
-./simpix imageB.png imageA.png out_BA.png collage_BA.png 20000000
+chosen images: imageA.png  imageB.png
+Outputs: collageAB.png    collageBA.png
+
+time A → B is 3155.642s
+time B → A is 3307.558s
+
 
 code:(slurm)
 sbatch run_simpixAB.slurm
 sbatch run_simpixBA.slurm
 
-time A → B is 1756.689s
-time B → A is 1857.061s
+code:
+./simpix imageA.png imageB.png out_AB.png collage_AB.png 20000000
+./simpix imageB.png imageA.png out_BA.png collage_BA.png 20000000
+
+
 
 
 

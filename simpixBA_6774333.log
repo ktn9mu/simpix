@@ -1,0 +1,60 @@
+Pixel Geometry: 1920 x 1080  (N=2073600)
+Trials: 20000000
+Initial energy: 3.79112e+10
+step 400000  T=179866.674  Ecur=39269272918.000  Ebest=37911197998.000  time=35.058 s  rate=11409.528 steps/s  rate_recent=11409.528 steps/s
+step 800000  T=120568.213  Ecur=39788064824.000  Ebest=37911197998.000  time=35.125 s  rate=22775.581 steps/s  rate_recent=5977135.722 steps/s
+step 1200000  T=80819.274  Ecur=39687627108.000  Ebest=37911197998.000  time=35.192 s  rate=34098.803 steps/s  rate_recent=6013889.891 steps/s
+step 1600000  T=54174.769  Ecur=38971786316.000  Ebest=37911197998.000  time=35.258 s  rate=45379.382 steps/s  rate_recent=6019426.163 steps/s
+step 2000000  T=36314.426  Ecur=37820015938.000  Ebest=37819692930.000  time=40.774 s  rate=49050.862 steps/s  rate_recent=72520.255 steps/s
+step 2400000  T=24342.283  Ecur=36325472982.000  Ebest=36325472982.000  time=126.033 s  rate=19042.563 steps/s  rate_recent=4691.562 steps/s
+step 2800000  T=16317.133  Ecur=34624991440.000  Ebest=34624991440.000  time=226.836 s  rate=12343.740 steps/s  rate_recent=3968.169 steps/s
+step 3200000  T=10937.699  Ecur=32853899780.000  Ebest=32853894486.000  time=337.830 s  rate=9472.228 steps/s  rate_recent=3603.795 steps/s
+step 3600000  T=7331.758  Ecur=31117815762.000  Ebest=31117809374.000  time=458.276 s  rate=7855.528 steps/s  rate_recent=3320.982 steps/s
+step 4000000  T=4914.623  Ecur=29496509538.000  Ebest=29496509538.000  time=581.656 s  rate=6876.921 steps/s  rate_recent=3242.025 steps/s
+step 4400000  T=3294.370  Ecur=28002646478.000  Ebest=28002646478.000  time=703.494 s  rate=6254.493 steps/s  rate_recent=3283.031 steps/s
+step 4800000  T=2208.284  Ecur=26631927520.000  Ebest=26631927430.000  time=825.539 s  rate=5814.381 steps/s  rate_recent=3277.479 steps/s
+step 5200000  T=1480.257  Ecur=25403433632.000  Ebest=25403433632.000  time=945.554 s  rate=5499.422 steps/s  rate_recent=3332.928 steps/s
+step 5600000  T=992.245  Ecur=24292450040.000  Ebest=24292450040.000  time=1061.377 s  rate=5276.166 steps/s  rate_recent=3453.553 steps/s
+step 6000000  T=665.122  Ecur=23298051890.000  Ebest=23298051890.000  time=1173.708 s  rate=5112.005 steps/s  rate_recent=3560.899 steps/s
+step 6400000  T=445.844  Ecur=22414114880.000  Ebest=22414114880.000  time=1281.996 s  rate=4992.213 steps/s  rate_recent=3693.833 steps/s
+step 6800000  T=298.859  Ecur=21621695942.000  Ebest=21621695942.000  time=1384.780 s  rate=4910.528 steps/s  rate_recent=3891.684 steps/s
+step 7200000  T=200.331  Ecur=20900635274.000  Ebest=20900634898.000  time=1485.604 s  rate=4846.513 steps/s  rate_recent=3967.290 steps/s
+step 7600000  T=134.286  Ecur=20248786622.000  Ebest=20248786622.000  time=1582.542 s  rate=4802.399 steps/s  rate_recent=4126.340 steps/s
+step 8000000  T=90.015  Ecur=19653424954.000  Ebest=19653424954.000  time=1674.882 s  rate=4776.457 steps/s  rate_recent=4331.858 steps/s
+step 8400000  T=60.339  Ecur=19115357634.000  Ebest=19115357634.000  time=1763.126 s  rate=4764.265 steps/s  rate_recent=4532.865 steps/s
+step 8800000  T=40.446  Ecur=18621531144.000  Ebest=18621531144.000  time=1848.446 s  rate=4760.756 steps/s  rate_recent=4688.230 steps/s
+step 9200000  T=27.112  Ecur=18176168702.000  Ebest=18176168702.000  time=1930.121 s  rate=4766.542 steps/s  rate_recent=4897.487 steps/s
+step 9600000  T=18.174  Ecur=17765563928.000  Ebest=17765563928.000  time=2009.763 s  rate=4776.683 steps/s  rate_recent=5022.469 steps/s
+step 10000000  T=12.182  Ecur=17386865878.000  Ebest=17386865878.000  time=2087.052 s  rate=4791.447 steps/s  rate_recent=5175.359 steps/s
+step 10400000  T=8.166  Ecur=17032237058.000  Ebest=17032237058.000  time=2162.445 s  rate=4809.370 steps/s  rate_recent=5305.502 steps/s
+step 10800000  T=5.474  Ecur=16706784354.000  Ebest=16706784354.000  time=2235.628 s  rate=4830.858 steps/s  rate_recent=5465.802 steps/s
+step 11200000  T=3.669  Ecur=16409985536.000  Ebest=16409985536.000  time=2305.302 s  rate=4858.365 steps/s  rate_recent=5740.977 steps/s
+step 11600000  T=2.460  Ecur=16127357936.000  Ebest=16127357936.000  time=2373.578 s  rate=4887.136 steps/s  rate_recent=5858.593 steps/s
+step 12000000  T=1.649  Ecur=15864545018.000  Ebest=15864545018.000  time=2439.646 s  rate=4918.747 steps/s  rate_recent=6054.400 steps/s
+step 12400000  T=1.105  Ecur=15622350806.000  Ebest=15622350806.000  time=2503.919 s  rate=4952.236 steps/s  rate_recent=6223.384 steps/s
+step 12800000  T=0.741  Ecur=15394447056.000  Ebest=15394447056.000  time=2566.377 s  rate=4987.575 steps/s  rate_recent=6404.317 steps/s
+step 13200000  T=0.497  Ecur=15182383360.000  Ebest=15182383360.000  time=2628.057 s  rate=5022.722 steps/s  rate_recent=6485.102 steps/s
+step 13600000  T=0.333  Ecur=14982927128.000  Ebest=14982927128.000  time=2688.116 s  rate=5059.306 steps/s  rate_recent=6660.162 steps/s
+step 14000000  T=0.223  Ecur=14794474914.000  Ebest=14794474914.000  time=2745.921 s  rate=5098.471 steps/s  rate_recent=6919.749 steps/s
+step 14400000  T=0.150  Ecur=14618478172.000  Ebest=14618478172.000  time=2802.155 s  rate=5138.903 steps/s  rate_recent=7113.221 steps/s
+step 14800000  T=0.100  Ecur=14452000734.000  Ebest=14452000734.000  time=2857.087 s  rate=5180.101 steps/s  rate_recent=7281.667 steps/s
+step 15200000  T=0.067  Ecur=14294034728.000  Ebest=14294034728.000  time=2911.263 s  rate=5221.102 steps/s  rate_recent=7383.383 steps/s
+step 15600000  T=0.045  Ecur=14143441982.000  Ebest=14143441982.000  time=2963.901 s  rate=5263.334 steps/s  rate_recent=7599.073 steps/s
+step 16000000  T=0.030  Ecur=14002744628.000  Ebest=14002744628.000  time=3015.208 s  rate=5306.434 steps/s  rate_recent=7796.227 steps/s
+step 16400000  T=0.020  Ecur=13866237796.000  Ebest=13866237796.000  time=3066.088 s  rate=5348.836 steps/s  rate_recent=7861.598 steps/s
+step 16800000  T=0.014  Ecur=13737541780.000  Ebest=13737541780.000  time=3115.751 s  rate=5391.959 steps/s  rate_recent=8054.275 steps/s
+step 17200000  T=0.009  Ecur=13616645880.000  Ebest=13616645880.000  time=3148.149 s  rate=5463.528 steps/s  rate_recent=12346.533 steps/s
+step 17600000  T=0.006  Ecur=13500655430.000  Ebest=13500655430.000  time=3172.414 s  rate=5547.826 steps/s  rate_recent=16484.383 steps/s
+step 18000000  T=0.004  Ecur=13389386328.000  Ebest=13389386328.000  time=3196.471 s  rate=5631.209 steps/s  rate_recent=16626.940 steps/s
+step 18400000  T=0.003  Ecur=13283661150.000  Ebest=13283661150.000  time=3219.197 s  rate=5715.711 steps/s  rate_recent=17601.234 steps/s
+step 18800000  T=0.002  Ecur=13183458066.000  Ebest=13183458066.000  time=3241.896 s  rate=5799.075 steps/s  rate_recent=17621.753 steps/s
+step 19200000  T=0.001  Ecur=13088557802.000  Ebest=13088557802.000  time=3263.674 s  rate=5882.941 steps/s  rate_recent=18367.475 steps/s
+step 19600000  T=0.001  Ecur=12997711306.000  Ebest=12997711306.000  time=3285.404 s  rate=5965.780 steps/s  rate_recent=18407.409 steps/s
+step 20000000  T=0.001  Ecur=12909773396.000  Ebest=12909773396.000  time=3306.780 s  rate=6048.179 steps/s  rate_recent=18712.498 steps/s
+Done.
+Final best energy: 12909773396.000
+Wrote: out_BA.png
+Info in <TCanvas::Print>: png file collageBA.png has been created
+Wrote: collageBA.png
+Runtime (s): 3307.558
+Done: imageB.png -> imageA.png
